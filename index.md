@@ -3,6 +3,6 @@ layout: default
 ---
 
 ## Techne Summit Alexandria 2022
-![Techne Summit](/assets/img/TSALX`22 Facebook-Cover.jpg)
+![Techne Summit](/assets/img/TSC Logo.png)
 
-[Visit their website](https://alex.technesummit.com/2022)
+[Visit their website](https://cairo.technesummit.com/2023)
