@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## check out our profiles
+## Check out our profiles!
 
 [Review Panx Project on DesignRush](https://www.designrush.com/agency/profile/panx-project)
 [Review Panx Project on TechBehemoths](https://techbehemoths.com/company/panx-project)
